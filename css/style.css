@@ -892,5 +892,9 @@ body {
      text-align:center
     }
    }
-   
- 
+
+ #contact_mail {
+     font-weight: 700;
+     color: #fae3d6 !important;
+     padding-left: 10px;
+ }
